@@ -1,5 +1,5 @@
 # WeChatRedEnvlop
-基于猴神的mokeydev插件上的抢红包、修改微信步数、非群主@所有人、防止消息撤回插件
+基于猴神的MonkeyDev插件上的抢红包、修改微信步数、非群主@所有人、防止消息撤回插件
 
 ## 使用方式
 1、从PP助手下载一个破解版的微信直接放入到WeChatRedEnvlop/WeChatRedEnvlop/TargetApp/
