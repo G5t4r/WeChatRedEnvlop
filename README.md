@@ -31,3 +31,10 @@
 如果编译报错，请记得先把破解的微信放到目录里，由于偷懒，有的地方使用的头文件，如果不先放微信，可能会报错哟~
 
 可能有同学复制代码到自己的工程里会报错，需要修改两处配置
+![](https://github.com/z306007236/screenshotssave/blob/master/WX20170803-151834.png?raw=true)
+![](https://github.com/z306007236/screenshotssave/blob/master/WX20170803-151855.png?raw=true)
+
+
+---
+## 如何生成ipa?
+在工程目录有一个LatestBuild文件夹，进去找到createIPA.command双击即可
