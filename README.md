@@ -12,7 +12,7 @@
 
 
 自己给自己发消息来控制开关，废话不说了，直接上代码
-```object-c
+```objective-c
             if (isMesasgeFromMe)
             {
                 if ([m_nsContent rangeOfString:@"打开红包插件"].location != NSNotFound)
@@ -48,6 +48,6 @@
 
 @所有人的使用方法
 
-```object-c
+```objective-c
 #所有人 群发消息
 ```
